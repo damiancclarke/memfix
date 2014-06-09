@@ -1,0 +1,26 @@
+page 5 of this: http://www.stata.com/manuals13/dmemory.pdf
+
+Plus, this anecdote from http://lwn.net/Articles/104185/
+
+
+An aircraft company discovered that it was cheaper to fly its planes
+with less fuel on board. The planes would be lighter and use less fuel
+and money was saved. On rare occasions however the amount of fuel was
+insufficient, and the plane would crash. This problem was solved by
+the engineers of the company by the development of a special OOF
+(out-of-fuel) mechanism. In emergency cases a passenger was selected
+and thrown out of the plane. (When necessary, the procedure was
+repeated.)  A large body of theory was developed and many publications
+were devoted to the problem of properly selecting the victim to be
+ejected.  Should the victim be chosen at random? Or should one choose
+the heaviest person? Or the oldest? Should passengers pay in order not
+to be ejected, so that the victim would be the poorest on board? And
+if for example the heaviest person was chosen, should there be a
+special exception in case that was the pilot? Should first class
+passengers be exempted?  Now that the OOF mechanism existed, it would
+be activated every now and then, and eject passengers even when there
+was no fuel shortage. The engineers are still studying precisely how
+this malfunction is caused.
+
+
+Finally, useful post... https://blog.ramses-pyramidenbau.de/?p=87
